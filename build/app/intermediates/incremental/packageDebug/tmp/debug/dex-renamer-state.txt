@@ -1,0 +1,4 @@
+#Mon Oct 08 11:27:49 BRT 2018
+base.0=/home/ratchet/Documentos/workspace/qcard_app/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
